@@ -3,12 +3,14 @@
 https://www.youtube.com/watch?v=cp_MeXO2fLg&list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA
 
 ## 설치
+
 ```
 npm install webpack webpack-cli
 npm install npx
 ```
 
 ## 빌드
+
 ```
 webpack.config.js
 npx webpack
@@ -25,16 +27,32 @@ npx webpack
 ```
 
 ## CSS Bundle
+
 ```
 npm install --save-dev style-loader css-loader
 ```
 
 ## HTML Plugin
+
 ```
 npm install -D html-webpack-plugin
 ```
 
 ## 모듈
+
 - hot module replacement
 - code splitting
 - lazy loading : 사용할때 로딩
+
+## VS Extension
+
+- Material Icon Thema
+- Material Thema
+- Prettier
+- Bracket Pair Colorizer
+- Indent Rainbow
+- Auto Rename Tag
+- Rest Client
+- Css Peek
+- HTML CSS Support (Option)
+- Live Server

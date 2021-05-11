@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "jquery": "^3.5.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "request": "^2.88.2",
     "webpack": "^4.42.0",
     "webpack-cli": "^3.3.11"
